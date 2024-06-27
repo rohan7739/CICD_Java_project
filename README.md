@@ -112,7 +112,13 @@ pipeline {
             }
         }
     }
-}
+
+![pipeline](https://github.com/rohan7739/CICD_Java_project/assets/140694225/6df08d3b-ed5f-41e1-a80f-6af7da1ffa8c)
+
+## Deployed application
+![login_page](https://github.com/rohan7739/CICD_Java_project/assets/140694225/a9ae2f5c-6c87-4e95-84d8-913c7738ca74)
+
+![home_page](https://github.com/rohan7739/CICD_Java_project/assets/140694225/387f6a70-7f46-47fc-b05e-cf86c6e16c6c)
 
 
 
