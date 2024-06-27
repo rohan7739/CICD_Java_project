@@ -1,4 +1,4 @@
-# Real-World Scenario: Development and Deployment of a Web Application of Shopping cart using Docker
+# Development and Deployment of a Web Application of Shopping cart using Docker
 
 In this scenario, a team of developers is working on a web application that consists of multiple microservices. They want to ensure consistent and reliable development, testing, and deployment processes across different environments.
 
@@ -113,12 +113,15 @@ pipeline {
         }
     }
 
-![pipeline](https://github.com/rohan7739/CICD_Java_project/assets/140694225/6df08d3b-ed5f-41e1-a80f-6af7da1ffa8c)
+![pipe](https://github.com/rohan7739/CICD_Java_project/assets/140694225/6cde8fcd-d1b2-4b33-9e5c-2f1cb128b31f)
 
 ## Deployed application
-![login_page](https://github.com/rohan7739/CICD_Java_project/assets/140694225/a9ae2f5c-6c87-4e95-84d8-913c7738ca74)
+![login_java](https://github.com/rohan7739/CICD_Java_project/assets/140694225/db065068-f401-4798-97cc-6fe67b94cfad)
 
-![home_page](https://github.com/rohan7739/CICD_Java_project/assets/140694225/387f6a70-7f46-47fc-b05e-cf86c6e16c6c)
+![home_java](https://github.com/rohan7739/CICD_Java_project/assets/140694225/df7c56cf-c7d8-465a-b7bb-1896082a70c8)
+
+### Enter in your browser: 
+http://<Enter_your_IP>:8070
 
 
 
