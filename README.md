@@ -65,7 +65,7 @@ pipeline {
     stages {
         stage('Git Checkout') {
             steps {
-                git branch: 'main', url: 'https://github.com/jaiswaladi246/Shopping-Cart.git'
+                git branch: 'main', credentialsId: 'c05171f4-5c00-4e97-ac4e-0e30dcd2d9b3', url: 'https://github.com/rohan7739/CICD_Java_project.git'
             }
         }
         
